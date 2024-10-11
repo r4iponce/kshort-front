@@ -1,6 +1,6 @@
 <script>
-	import Header from '$lib/header.svelte';
-	import Link from '$lib/link.svelte';
+	import Header from '$lib/ui/header.svelte';
+	import Link from '$lib/ui/link.svelte';
 	import '../../app.css';
 
 	let title = 'A easy to use link shortener';
